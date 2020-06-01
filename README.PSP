@@ -1,0 +1,4 @@
+To install, run:
+
+    make -f Makefile.psp
+    make -f Makefile.psp install
